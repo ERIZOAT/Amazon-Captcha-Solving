@@ -19,7 +19,7 @@ Amazon, a popular e-commerce platform, takes various measures to protect the int
 
 ## Solving Amazon's Captchas with CapSolver
 
-Capsolver, widely used in the market today, is an enterprise level specialized in solving Amazon CAPTCHA, as its high accuracy and fastness are chief in the market. Here are some detailed steps and details to solve Amazon CAPTCHA
+[Capsolver](https://www.capsolver.com/), widely used in the market today, is an enterprise level specialized in solving Amazon CAPTCHA, as its high accuracy and fastness are chief in the market. Here are some detailed steps and details to solve Amazon CAPTCHA
 
 ### Solving Amazon Funcaptcha
 
